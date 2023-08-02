@@ -1,0 +1,11 @@
+body {
+    background: rgba(47, 42, 51, 0.568);
+}
+
+h1 {
+    text-transform: capitalize;
+    text-align: center;
+    font-size: 2.5rem;
+    text-shadow: 14px 15px 13px black;
+    color: aliceblue;
+}
